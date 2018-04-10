@@ -1,0 +1,20 @@
+<object-stream>
+  <list>
+    <Member>
+      <memberId>200876</memberId>
+      <memberName>Name entered isalex</memberName>
+      <memberAddress>red road</memberAddress>
+      <height>1.25</height>
+      <startingWeight>110.0</startingWeight>
+      <gender>Unspecified</gender>
+    </Member>
+    <Member>
+      <memberId>100000</memberId>
+      <memberName>Name entered isjim</memberName>
+      <memberAddress>feefew</memberAddress>
+      <height>1.6</height>
+      <startingWeight>56.0</startingWeight>
+      <gender>Unspecified</gender>
+    </Member>
+  </list>
+</object-stream>
